@@ -1,0 +1,13 @@
+# Ignore system and IDE files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Ignore log and backup files
+*.log
+*.bak
+
+# Ignore a specific directory
+myenv/
+data/
